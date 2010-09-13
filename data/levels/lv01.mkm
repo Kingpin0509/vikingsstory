@@ -1,0 +1,6 @@
+name:s>Tutorial
+enemies:s>wolf
+quantity:i>20
+map:s>map01.mkm
+start:l>[i>485,i>0]
+waypoint:l>[l>[i>485,i>160],l>[i>645,i>160],l>[i>645,i>320],l>[i>325,i>320],l>[i>325,i>160],l>[i>485,i>160],l>[i>485,i>640]]
