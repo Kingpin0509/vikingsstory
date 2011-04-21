@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 ############################################################################
 #                                                                          #
 #   Viking's Story: an open source tower defense game                      #

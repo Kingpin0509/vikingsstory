@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 ############################################################################
 #                                                                          #
 #   Viking's Story: an open source tower defense game                      #
@@ -33,7 +35,6 @@ class Viking:
         pygame.init()
         self.screen = pygame.display.set_mode((1024, 768), 0, 32)
         pygame.display.set_caption("Viking's Story")
-        pygame.display.set_icon(load_image("./data/image/menu/icon.ico"))
         pygame.mouse.set_visible(False)
         self.clock = pygame.time.Clock()
         pointer = Sheet("./data/image/menu/cursor.png")
