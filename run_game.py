@@ -1,3 +1,4 @@
+#! /usr/bin/env python
 from bin import main
 
 def run():
